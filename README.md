@@ -18,7 +18,7 @@ I work as the build side for studios and product teams: you own the client and t
 | **[benchmark-cc](https://github.com/btw-hash/benchmark-cc)** | Measurement instead of opinion: an A/B harness that isolates what each layer of a Claude Code setup contributes in tokens, wall time and judged quality. | Node.js, Claude Code |
 | **[btw-agents-pack](https://github.com/btw-hash/btw-agents-pack)** | 37 subagents and 17 skills extracted from daily production use, each with an explicit tool allowlist. MIT. | Claude Code |
 | **[agent-dashboard](https://github.com/btw-hash/agent-dashboard)** | Real-time observability for running agents, drawn as a pixel-art office. Live session tracking over WebSocket with a polling fallback. | Node.js, Canvas 2D, WebSocket |
-| **Nox** (private) | A personal AI assistant in daily use: Telegram bot, Android app with over-the-air updates, scheduled jobs, alerting, and a self-hosted server it monitors itself. | TypeScript, grammY, SQLite, Capacitor, Claude Agent SDK |
+| **[Nox](https://github.com/btw-hash/nox)** (showcase, code is private) | A personal AI assistant in daily use: Telegram bot, Android app with over-the-air updates, scheduled jobs, alerting, and a self-hosted server it monitors itself. | TypeScript, grammY, SQLite, Capacitor, Claude Agent SDK |
 
 ## How I work
 

@@ -13,7 +13,7 @@ I work as the build side for studios and product teams: you own the client and t
 
 | Project | What it proves | Stack |
 |---|---|---|
-| **[crm-pro](https://github.com/btw-hash/crm-pro)** | A full B2B sales CRM with six role workspaces, an AI assistant, voice-to-document and an ERP integration layer. Public twin of a real client build under NDA. [Try the demo](https://crm-pro.btwstudio.dev) | Next.js 16, React 19, Prisma, PostgreSQL, clean architecture |
+| **[crm-pro](https://github.com/btw-hash/crm-pro)** | A full B2B sales CRM with six role workspaces, an AI assistant, voice-to-document and an ERP integration layer. [Try the demo](https://crm-pro.btwstudio.dev) | Next.js 16, React 19, Prisma, PostgreSQL, clean architecture |
 | **[vault-research-agent](https://github.com/btw-hash/vault-research-agent)** | A multi-agent research pipeline with an eval suite: planner, router, parallel MCP workers, synthesizer and an LLM judge that sends weak answers back. Runs from a clean clone with no API key. | TypeScript, Claude, MCP |
 | **[benchmark-cc](https://github.com/btw-hash/benchmark-cc)** | Measurement instead of opinion: an A/B harness that isolates what each layer of a Claude Code setup contributes in tokens, wall time and judged quality. | Node.js, Claude Code |
 | **[btw-agents-pack](https://github.com/btw-hash/btw-agents-pack)** | 37 subagents and 17 skills extracted from daily production use, each with an explicit tool allowlist. MIT. | Claude Code |
